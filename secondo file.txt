@@ -1,6 +1,9 @@
 secondo file creato sul pc.. verifico l'arrivo su internet
 
 secondo file arrivato su internet. si provede alla sincronizzazione per il pc.
+<<<<<<< HEAD
 
 file arrivato al pc.
 fine
+=======
+>>>>>>> 5f9bf430de98befabff10a606f7cd78f5cd6db57
