@@ -1,3 +1,6 @@
 file arrivato e modificato su internet
+<<<<<<< HEAD
 
 adesso file modificato sul pc con destinazione internet
+=======
+>>>>>>> 7e1946df2ad8bc99a6f7403063eb47b6424b0b67
